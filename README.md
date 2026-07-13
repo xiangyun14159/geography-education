@@ -1,3 +1,3 @@
 # geography-education
 
-地理教育相关项目。
+开源好用的地理教学工具
