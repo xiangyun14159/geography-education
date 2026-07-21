@@ -9,3 +9,10 @@
 .cxx
 local.properties
 /app/build
+
+# Project-local dependencies and generated release artifacts
+_projects/**/desktop/node_modules/
+_projects/**/desktop/tests/artifacts/
+_projects/**/outputs/
+_projects/**/build-v*/
+_projects/**/installer/*.exe
